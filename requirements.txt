@@ -1,5 +1,5 @@
-os
-cv2
+streamlit
+opencv-python
 cvzone
-PIL
+Pillow
 numpy
