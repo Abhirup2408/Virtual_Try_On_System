@@ -1,0 +1,6 @@
+os
+cv2
+cvzone
+cvzone.PoseModule import PoseDetector
+PIL import Image
+numpy as np
