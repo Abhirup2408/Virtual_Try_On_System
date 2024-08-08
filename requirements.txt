@@ -1,6 +1,5 @@
 os
 cv2
 cvzone
-cvzone.PoseModule import PoseDetector
-PIL import Image
+PIL
 numpy as np
