@@ -117,8 +117,8 @@ if st.session_state["webcam_started"]:
 
         # Display the frame
         stframe.image(cv2.cvtColor(img, cv2.COLOR_BGR2RGB), channels="RGB")
-        if cv2.waitKey(1) & 0xFF == ord('q'):
-            break
+        #if cv2.waitKey(1) & 0xFF == ord('q'):
+            #break
 
     cap.release()
     cv2.destroyAllWindows()
