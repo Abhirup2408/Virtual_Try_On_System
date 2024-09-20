@@ -1,5 +1,5 @@
-cvzone
+cvzone==1.6.1
 streamlit
 numpy
-pillow
-opencv-python
+pillow==10.2.0
+opencv-python==4.10.0.84
